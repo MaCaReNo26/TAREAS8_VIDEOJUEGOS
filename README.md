@@ -14,6 +14,7 @@ Requerimientos
 8.	Probar el sistema ingresando al menos cinco juegos de ambos tipos.
 
 EVIDENCIAS:
+
 <img width="459" height="806" alt="image" src="https://github.com/user-attachments/assets/74b000d5-ecc6-496c-8e80-8d38a67b55f0" />
 <img width="438" height="779" alt="image" src="https://github.com/user-attachments/assets/803e6a0f-9f1c-4694-ab9f-306067f1b125" />
 <img width="454" height="462" alt="image" src="https://github.com/user-attachments/assets/a9a54f01-9a5c-447e-a263-f859fd131334" />
